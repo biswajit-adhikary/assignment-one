@@ -1,6 +1,5 @@
 /*
-font-family: 'Poppins', sans-serif;
-font-family: 'Yeseva One', cursive;
+Some CSS
 */
 * {
     margin: 0;
@@ -48,6 +47,7 @@ a.our-button {
     font-weight: bold;
     margin-top: 15px;
 }
+
 /* 
 Hero CSS
 */
